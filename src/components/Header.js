@@ -6,7 +6,7 @@ const Header = ({title}) => {
             <div className="container">
                 <div className="content">
                     <h1 className="title">{title}</h1>
-                    <p>This is a project illustrate  the characters of Rick And Morty</p>
+                    <p className="text">This is a project illustrate  the characters of Rick And Morty</p>
                 </div>            
             </div>
         </header>
